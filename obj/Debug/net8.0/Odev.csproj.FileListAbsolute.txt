@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Odev\Odev\bin\Debug\net8.0\Odev.exe
+C:\Users\Administrator\source\repos\Odev\Odev\bin\Debug\net8.0\Odev.deps.json
+C:\Users\Administrator\source\repos\Odev\Odev\bin\Debug\net8.0\Odev.runtimeconfig.json
+C:\Users\Administrator\source\repos\Odev\Odev\bin\Debug\net8.0\Odev.dll
+C:\Users\Administrator\source\repos\Odev\Odev\bin\Debug\net8.0\Odev.pdb
+C:\Users\Administrator\source\repos\Odev\Odev\obj\Debug\net8.0\Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Odev\Odev\obj\Debug\net8.0\Odev.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Odev\Odev\obj\Debug\net8.0\Odev.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Odev\Odev\obj\Debug\net8.0\Odev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Odev\Odev\obj\Debug\net8.0\Odev.dll
+C:\Users\Administrator\source\repos\Odev\Odev\obj\Debug\net8.0\refint\Odev.dll
+C:\Users\Administrator\source\repos\Odev\Odev\obj\Debug\net8.0\Odev.pdb
+C:\Users\Administrator\source\repos\Odev\Odev\obj\Debug\net8.0\Odev.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Odev\Odev\obj\Debug\net8.0\ref\Odev.dll
